@@ -1,0 +1,9 @@
+transformers==4.33.1
+sentence-transformers==2.2.2
+pinecone-client==2.2.2
+datasets==2.14.0
+accelerate==0.22.0
+einops==0.6.1
+langchain==0.0.288
+xformers==1.0.0
+bitsandbytes==0.41.0

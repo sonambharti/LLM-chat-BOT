@@ -1,0 +1,385 @@
+{
+    "DEFAULT": {
+        "1": {
+            "question": "No. of MPs in Seventeenth Lok Sabha",
+            "answer": "541 (4 Seats vacant)"
+        },
+        "2": {
+            "question": "No. of MPs in each party",
+            "answer": "List enclosed (Annexure I)"
+        },
+        "3": {
+            "question": "No. of male MPs",
+            "answer": "459"
+        },
+        "4": {
+            "question": "No. of woman MPs",
+            "answer": "82"
+        },
+        "5": {
+            "question": "Oldest MP",
+            "answer": "Shri Shafiqur Rahman Barq, Age- 92 (D.O.B. - 11-07-1930)"
+        },
+        "6": {
+            "question": "Youngest MP",
+            "answer": "Ms. Chandrani Murmu, Age- 29 (D.O.B. - 16-06-1993)"
+        }
+    },
+    "ABOUT LOK SABHA AND ITS HISTORY": {
+        "7": {
+            "question": " When was the Lok Sabha (the House of the People) first constituted?",
+            "answer": "The Lok Sabha (House of the People) was duly constituted for the first time on 17 April 1952 after the first General Elections held from 25 October 1951 to 21 February  1952."
+        },
+        "8": {
+            "question": " When was the first Session of the Lok Sabha held?",
+            "answer": "The first Session of the First Lok Sabha commenced on 13 May 1952."
+        },
+        "9": {
+            "question": " Why is the Lok Sabha called the popular chamber?",
+            "answer": "The Lok Sabha is composed of representatives of the people chosen by direct election on the basis of adult suffrage.  That is why it is called the popular chamber."
+        },
+        "10": {
+            "question": " How many General Elections to the Lok Sabha have been held till date?",
+            "answer": "As many as seventeen General Elections[1][1] to the Lok Sabha  have been held till date.  The first General Elections were held from 25 October 1951 to 21 February 1952; the second from 24 February to 14 March 1957; the third from 19 to 25 February   1962;  the fourth from 17 to 21 February 1967; the fifth from 1 to 10 March 1971; the sixth from 16 to 20  March 1977; the seventh from 3 to 6  January 1980; the eighth from 24 to 28 December 1984; the ninth from 22 to 26 November 1989; the tenth from 20  May  to 15 June 1991; the eleventh from 27 April to 30 May 1996; the twelfth from 16 to 23 February 1998; the thirteenth  from 5 September to 6 October 1999; the fourteenth  from 20 April to 10 May 2004; the fifteenth from 16 April to 13 May 2009 and the sixteenth General Elections from 7 April 2014 to 12 May 2014; and the seventeenth General Elections from 11 April to 19 May 2019."
+        },
+        "11": {
+            "question": "Who was the first Speaker of Lok Sabha",
+            "answer": "Shri G.V. Mavalankar was the first Speaker of Lok Sabha (15 May 1952- 27 February 1956)."
+        },
+        "12": {
+            "question": "Who was the first Deputy Speaker of Lok Sabha?",
+            "answer": ""
+        }
+    },
+    "QUESTIONS ON THE COMPOSITION OF LOK SABHA": {
+        "13": {
+            "question": "What is the strength of the Lok Sabha as prescribed in the Constitution?",
+            "answer": "The Lok Sabha, as per the Constitution, consists of not more than five hundred and thirty Members chosen by direct election from territorial constituencies in the States, not more than twenty Members to represent the Union Territories [Article 81] and not more than two Members of the Anglo-Indian Community to be nominated by the President, if he/she is of the opinion that the Anglo-Indian Community is not adequately represented in the Lok Sabha [Article 331].  The limit on the maximum number of Members chosen directly from territorial constituencies in States may be exceeded if such an increase is incidental to the reorganisation of States by an Act of Parliament."
+        },
+        "14": {
+            "question": "What is the life of the Lok Sabha?",
+            "answer": "Unless sooner dissolved by the President, the Lok Sabha continues for five years from the date appointed for its first meeting and no longer, as the expiration of the period of five years operates as a dissolution of the House.  However, while a Proclamation of Emergency is in operation, this period may be extended by Parliament by law for a period not exceeding one year at a time and not exceeding in any case beyond a period of six months after the Proclamation has ceased to operate."
+        },
+        "15": {
+            "question": " What is the quorum to constitute a sitting of the Lok Sabha?",
+            "answer": "The quorum to constitute a sitting of the House is one-tenth of the total number of Members of the House under article 100(3) of the Constitution."
+        },
+        "16": {
+            "question": " Which is the party  having the the largest number of Members in the Seventeenth Lok Sabha?",
+            "answer": "The Bharatiya Janata Party having 303 Members is the largest party in the Seventeenth Lok Sabha followed by the Indian National Congress having 52 Members."
+        }
+    },
+    "QUESTIONS ON THE OFFICERS OF LOK SABHA": {
+        "17": {
+            "question": " Who is the Presiding Officer of the Lok Sabha?",
+            "answer": "The Speaker and the Deputy Speaker are the Presiding Officers of the Lok Sabha."
+        },
+        "18": {
+            "question": " What is the term of Office of the Speaker?",
+            "answer": "The Speaker continues in office till immediately before the first meeting of Lok Sabha after dissolution of the one to which he/she was elected, unless he/she ceases to be a Member by any of the reasons specified in articles 94, 101 and 102 of the Constitution."
+        },
+        "19": {
+            "question": " Who presides over the Lok Sabha when the Speaker is absent from the sitting of the House?",
+            "answer": "The Deputy Speaker presides over the Lok Sabha when the Speaker is absent from the sitting of the House."
+        },
+        "20": {
+            "question": " Who presides over the Lok Sabha when both the Speaker's and the Deputy Speaker's offices fall vacant?",
+            "answer": "When the Offices of both the Speaker and the Deputy Speaker fall vacant, the duties of the Office of the Speaker are performed by such Member of the Lok Sabha as the President may appoint for the purpose. The person so appointed is known as the Speaker pro tem."
+        },
+        "21": {
+            "question": " Who presides over the House in the absence of both the Speaker and the Deputy Speaker?",
+            "answer": "The Rules of Procedure and Conduct of Business in Lok Sabha provide that at the commencement of the House or from time to time, as the case may be, the Speaker shall nominate from amongst the Members a Panel of not more than ten Chairpersons, any one of whom may preside over the House in the absence of the Speaker and the Deputy Speaker when so requested by the Speaker or, in the absence of the Speaker, by the Deputy Speaker.  A Chairperson so nominated, holds office until a new Panel of Chairpersons is nominated, unless he/she resigns earlier from the Panel or is appointed a Minister or elected as Deputy Speaker."
+        },
+        "22": {
+            "question": " Who is the present Speaker of the Lok Sabha?",
+            "answer": "Shri Om Birla."
+        },
+        "23": {
+            "question": " Who is the  present Deputy Speaker of the Lok Sabha?",
+            "answer": "Nil"
+        },
+        "24": {
+            "question": " Who is the Leader of the House in the Seventeenth Lok Sabha?",
+            "answer": "Shri  Narendra Damodardas Modi."
+        },
+        "25": {
+            "question": " Who is the Leader of  the Opposition in the Seventeenth Lok Sabha?",
+            "answer": "No Leader of the Opposition has been recognised by the Hon\u2019ble Speaker in the 17th Lok Sabha."
+        },
+        "26": {
+            "question": " Who is the Secretary-General of the Lok Sabha?",
+            "answer": ""
+        }
+    },
+    "QUESTIONS ON MEMBERS OF LOK SABHA": {
+        "27": {
+            "question": " How are the Members of the Lok Sabha elected?",
+            "answer": "The Members of the Lok Sabha are elected through General Elections, held on the basis of  universal adult suffrage.  Parliament, from time to time, by law makes provision with respect to all matters relating to, or in connection with, elections to the Lok Sabha, including the preparation of electoral rolls, the delimitation of constituencies and all other matters necessary for securing the due constitution of the Lok Sabha.  When the seat of a Member elected to the House becomes vacant or is declared vacant, or his/her election is declared void, the same is filled through bye-election."
+        },
+        "28": {
+            "question": "What are the qualifications to become a Member of the Lok Sabha?",
+            "answer": "To become a member of the Lok Sabha, a person should be a citizen of India, not less than 25 years of age and possess such other qualifications as may be prescribed by or under any law made by Parliament [Art. 84]"
+        },
+        "29": {
+            "question": " Who are the nominated Members of the Seventeenth Lok Sabha?",
+            "answer": "As on date, no one has been nominated by the President of India under Article 331 of the Constitution of India."
+        },
+        "30": {
+            "question": " Who is the longest serving Member in the Seventeenth Lok Sabha?",
+            "answer": "Shri Santosh Kumar Gangwar and Smt. Maneka Sanjay Gandhi are the longest serving Members in the Seventeenth Lok Sabha."
+        },
+        "31": {
+            "question": " Which Member of  the Lok Sabha has become the Speaker of the House in    his very  first term?",
+            "answer": " Sl.No Name of the Speaker Period Lok Sabha 1. Shri Ganesh Vasudev Mavalankar 15.5.1952 to 27.2.1956 First 2. Shri M.Ananthasayanam Ayyangar 8.3.1956 to 10.5.1957 First * 3. Dr. Neelam Sanjiva Reddy 17.3.1967 to 19.7.1969 Fourth 4. Dr. Gurdial Singh Dhillon 8.8.1969 to 19.3.1971 Fourth ** 5. Shri Kawdoor Sadananda Hegde 21.7.1977 to 21.1.1980 Sixth 6. Dr. Bal Ram Jakhar 22.1.1980 to 15.1.1985 Seventh 7. Shri Manohar Joshi 10.5.2002 to 2.6.2004 Thirteenth *        Shri M.A. Ayyangar became the Speaker in the first Lok Sabha due to the sudden demise of the then Speaker, Shri G.V. Mavalankar **      Following the resignation of the then Speaker, Dr. Neelam Sanjiva Reddy to contest the Presidential elections, Dr.G.S. Dhillon was unanimously elected as the Speaker of the Lok Sabha on 8 August 1969. "
+        }
+    },
+    "QUESTIONS ON ROLE AND FUNCTIONS OF LOK SABHA": {
+        "32": {
+            "question": " What are the powers of Lok Sabha relating to Money Bills?",
+            "answer": "A Bill is deemed to be a 'Money Bill' if it contains only provisions dealing with all or any of the following matters: (a) the imposition, abolition, remission, alteration or regulation of any tax; (b) the regulation of the borrowing of money or giving of any guarantee by the Government of India,  or the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the Government of India; (c) the custody of the Consolidated Fund or the Contingency Fund of India, the payment of moneys into or the withdrawal of moneys from any such Fund; (d) the appropriation of moneys out of the Consolidated Fund of India; (e) the declaring of any expenditure to be expenditure charged on the Consolidated Fund of India or the increasing of the amount of any such expenditure; (f) the receipt of money on account of the Consolidated Fund of India or the public account of India or the custody or issue of such money or the audit of the accounts of the Union  or of a State; or (g) any matter incidental to any of the matters specified in sub-clauses (a) to (f) [Art.110]."
+        },
+        "33": {
+            "question": "What is the legislative relationship between the  Lok Sabha and the  Rajya Sabha?",
+            "answer": "In legislative matters, both the Houses enjoy almost equal powers except in the case of Money Bills.   The main function of both the Houses is to pass laws.  Every Bill has to be passed by both the Houses and assented to by the President before it becomes law.  In case of Money Bills, the Lok Sabha has overriding powers."
+        },
+        "34": {
+            "question": " Is any deadlock between the two Houses possible?",
+            "answer": "Yes. In the case of Bills other than Money Bills and Constitution Amendment Bills, a disagreement between the two Houses may arise when a Bill passed by one House is rejected by the other House; or the Houses have finally disagreed as to the amendments to be made in the Bill; or more than six months have elapsed from the date of receipt  of the Bill by the other House without the Bill being passed by it."
+        },
+        "35": {
+            "question": " What is the mechanism for resolving such a deadlock between the two Houses?",
+            "answer": "A joint sitting of both Houses   is convened by the President for this purpose. [Article 108]"
+        },
+        "36": {
+            "question": " How many joint sittings of the Houses have been convened so far?",
+            "answer": "So far, joint sittings of the two Houses have taken place  on three occasions.  The first joint sitting was held on 6 May 1961 following a disagreement between the two Houses over certain amendments to the Dowry Prohibition Bill, 1959.  This was followed by another sitting on 9 May 1961 when the Bill, as amended, was finally passed.  The second joint sitting was held on 16 May 1978, following the rejection by the Rajya Sabha of the Banking Service Commission (Repeal) Bill, 1977 and the Bill was passed.  The third joint sitting was held on 26 March 2002 when the motion to consider the  Prevention of Terrorism Bill, 2002, seeking to replace the Prevention of Terrorism Ordinance (POTO) as passed by the Lok Sabha was rejected by the Rajya Sabha.  At this sitting held for the purpose of deliberating and voting on the Prevention of Terrorism Bill, 2002, the Bill was passed."
+        },
+        "37": {
+            "question": " Who presides over the joint sitting of the two Houses?",
+            "answer": "The Speaker of the Lok Sabha presides over the joint sitting of the two Houses. [Article 118(4)]"
+        },
+        "38": {
+            "question": " Does the Speaker have the right to vote?",
+            "answer": "The Speaker has a casting vote in the event of a tie.  It is customary for the Presiding Officer to exercise the casting vote in such a manner as to maintain the status quo."
+        },
+        "39": {
+            "question": " How many Sessions of the Lok Sabha are held in a year?",
+            "answer": "Normally three Sessions of the Lok Sabha are held in a year, viz.,"
+        },
+        "40": {
+            "question": "What is meant by Adjournment, Prorogation and Dissolution of the Lok Sabha?",
+            "answer": "\"Adjournment\" is a postponement of the sitting or proceedings of the House from one time to another specified for the reassembling of the House.  During the course of a Session, the Lok Sabha may be adjourned from day to day or for more than a day.  It may also be adjourned    sine die which means the termination of a sitting of the House without any definite date being fixed for its next sitting."
+        },
+        "41": {
+            "question": " What are the methods of voting in the Lok Sabha?",
+            "answer": "Rule32 of the \u201cRules of Procedure and Conduct of Business in Lok Sabha\u201d provides that unless the Speaker otherwise directs, the first hour of every sitting of the House shall be available for the asking and answering of Questions. Thus, it is taken up from 1100hrs to 1200 hrs in every sitting. Normally, there is no Question Hour during the first Session of the new Lok Sabha and also on the day when the President addresses both houses assembled together or on the day when General Budget is presented in Lok Sabha and on the sittings held during the extended period of session or on Saturdays/Sundays and Holidays."
+        },
+        "43": {
+            "question": " What is a Parliamentary Question?",
+            "answer": "Question is one of the important Parliamentary devices available to the Members to seek information on a matter of urgent public importance subject to conditions imposed by the Rules of Procedure and Conduct of Business in Lok Sabha and the Directions by the Speaker. A Member may ask question for the purpose of obtaining information on a subject matter of public importance within the special cognizance of the minister to whom it is addressed."
+        },
+        "44": {
+            "question": " What are the different types of Questions?",
+            "answer": "There are basically four types of Questions:-"
+        },
+        "45": {
+            "question": " What is the maximum number of Questions admitted for a particular day?",
+            "answer": "The maximum number of Questions to be placed on the list of Questions for oral answers (Starred Question) on a particular day is 20, while the maximum number of questions to be placed on the list of Unstarred Question is 230. However, the number of Unstarred Questions may exceed by a maximum of 25 Questions pertaining to State/States under President\u2019s Rule."
+        },
+        "46": {
+            "question": " Whether there is any restriction regarding the number of notices  that each Member may give with regard to Questions?",
+            "answer": "A Member is permitted to give not more than 10 notices of Questions both Starred and Unstarred combined for any day. But not more than five admitted questions, both Starred and Unstarred combined, by one Member are placed on the list of questions for any one day. Out of these 5 questions, not more than one Question distinguished by the Member with asterisk* as Starred is placed on the list of Questions for oral answer. This limit of one question for oral answer does not include any Short Notice Question of the Member which may have been admitted for answer on that day. However, a Member can have more than one Starred question in the list in the event of transfer or postponement of Questions in the printed list from one day to another."
+        },
+        "47": {
+            "question": " Who decides the admissibility of Questions?",
+            "answer": "Admissibility of questions is governed by Rules of Procedure and Conduct of Business in Lok Sabha, Directions by the Speaker as also the past precedents. The Speaker, Lok Sabha, decides whether a question or a part thereof, is or is not admissible under the Rules, and may disallow any question, or a part thereof, when in his/her opinion, it is an abuse of the right of questioning or is calculated to obstruct or prejudicially affect the procedure of the House or is in contravention of the Rules. The right to ask a question is governed by certain conditions like it should be pointed, specific and confined to one issue only. It should not contain arguments, inferences, ironical expressions, imputations, epithets or defamatory statements."
+        },
+        "48": {
+            "question": " What is an Half-an-Hour Discussion?",
+            "answer": "Another instrument available to the Members of Lok Sabha for raising issue of public importance is the Half-an-Hour Discussion. Under this, a Member may raise discussion on a matter of sufficient public importance which has been the subject of a recent question, Starred, Unstarred or Short Notice Question and the answer to which needs further elucidation on a matter of fact."
+        },
+        "49": {
+            "question": " What is the procedure for Half-an-Hour Discussion?",
+            "answer": "The procedure regarding Half-an-Hour Discussion is regulated by Rule 55 of the \u2018Rules of Procedure and Conduct of Business in Lok Sabha\u2019 and Direction 19 of the \u2018Directions by the Speaker\u2019. Under this, a Member may give notice to raise a discussion on a matter of sufficient public importance and which has been the subject of a recent question, Starred, Unstarred or Short Notice Question, and the answer to which needs further elucidation on a matter of fact. A notice is also required to be accompanied by an \u2018Explanatory Note\u2019 stating the reasons for raising the discussion and should also be signed. Normally, only one notice of Half-an-Hour Discussion is put down for a sitting and no formal motion is moved in the House nor does voting take place. The Member who has given notice makes a short statement and the Members who have previously intimated the Speaker and have secured one of the four places in the ballot are permitted to put a question each for the purpose of further elucidating any matter of fact. Thereafter, the Minister concerned replies briefly."
+        },
+        "50": {
+            "question": " When a Half-an-Hour Discussion is taken up?",
+            "answer": "A Money Bill can be introduced only in the Lok Sabha.  The Rajya Sabha cannot make amendments in a Money Bill passed by the Lok Sabha and transmitted to it.  It can, however, recommend amendments in a Money Bill.  It is open to the Lok Sabha to accept or reject any or all of the recommendations of  the Rajya Sabha with regard to a Money Bill.  If the Lok Sabha accepts any of the recommendations of the  Rajya Sabha, the Money Bill is deemed to have been passed by both Houses with amendments recommended by the Rajya Sabha and accepted by the Lok Sabha and if the Lok Sabha does not accept any of the recommendations of the Rajya Sabha, the Money Bill is deemed to have been passed by both Houses in the form in which it was passed by the  Lok Sabha without any of the amendments recommended by the  Rajya Sabha.  If a Money Bill  passed by  the Lok Sabha and transmitted to the Rajya Sabha  is not returned to the Lok Sabha within the period of fourteen days, it is deemed to have been passed by both Houses at the expiration of the said period in the form in which it was passed by the Lok Sabha. \u00c2\u00b7         Budget Session                              -  February - May \u00c2\u00b7         Autumn or Monsoon Session           -  July - August \u00c2\u00b7         Winter Session                               -  November - December \"Prorogation\" means the termination of a Session of the House by an order made by the  President under article 85(2)(a) of the Constitution.  The Prorogation of the House may take place any time, even while the House is sitting.  However, usually, prorogation follows the adjournment of the sitting of the House sine die. \"Dissolution\" of the House means the end of the life of the Lok Sabha either by an order made by the  President under article 85 (2) (b) of the Constitution or on the expiration of the period of five years from the date appointed for its first meeting. Dissolution puts an end to the representative character of the individuals who at the time compose the Lok Sabha. On adjournment of the Lok Sabha or its adjournment sine die, the pending business does not lapse.  Bills pending before either House or Select/Joint Committee, Motions, Resolutions, and amendments which have already been moved and pending in the House, and business pending before a Parliamentary Committee do not lapse on prorogation whereas all business pending before the House or any of its Committee lapse on dissolution.  Prorogation terminates a Session and does not constitute an interruption in the continuity of life of the Lok Sabha which is brought to an end only by dissolution. (i)        Voice Vote:  It is a simple method for deciding a question put by the Chair on a motion made by  a Member.  Under this method, the question before the House is determined by the `Ayes' or the `Noes', as the case may be. (ii)         Division:  There are three methods of holding a Division, i.e.  (a) by operating the Automatic Vote Recording Equipment; (b) by distributing `Ayes' and `Noes' slips in the House; and (c) by Members going into the Lobbies.  However, the method of recording of votes in the Lobbies has become obsolete ever since the installation of the Automatic Vote Recording Machine. (iii)        Secret Ballot:  During an 'open' voting period, the individual results are shown by the three Colours: Green for \u2018Ayes\u2019, Red for \u2018Noes\u2019 and Yellow for \u2018Abstain\u2019 on the Individual Result Display Panel. Secret  voting, if any, is held on similar lines except that the Light Emitting Diode (LED) on the Individual Result Display Panel flashes only white light to show that the vote has been recorded. (iv)         Recording of votes by distribution of slips:  The method of recording of votes by Members on `Ayes' and `Noes' slips is generally resorted to in the eventuality of (i) sudden failure of the working of the Automatic Vote Recording Equipment; and (ii) at the commencement of the new Lok Sabha, before the seats/division numbers have been allotted to Members. (v)           Physical count of Members in their places instead of a formal division:  If in the opinion of the Chair, a Division is unnecessarily claimed, he/she may ask the Members who are for `Ayes' and those for `Noes', respectively, to rise in their places and on a count being taken, he/she may declare the determination of the House.  In such a case, the particulars of voting of the Members are not recorded. (vi)         Casting Vote:  If in a Division the number of `Ayes' and `Noes' is equal, the question is decided by the casting vote of the Chair.  Under the Constitution, the Speaker or the person acting as such cannot vote in a Division; he/she has only a casting vote which he/she must exercise in the case of equality of votes. Question 42: What is Question Hour? Starred: A Member who desires an oral answer to his question is required to distinguish it by an asterix. Maximum 20 Questions are included in the list of Starred Questions for a particular day. This is printed on green paper. Minimum of 15 clear days notice is required for tabling Starred Questions. The Questions not orally answered in the Starred list of questions are treated as Unstarred Questions and their replies are laid on the Table of the House. Unstarred: These do not carry the asterix mark and are meant for obtaining written reply. Not more than 230 Questions can be placed on the Unstarred list for a particular sitting. This list is printed on white paper. Minimum 15 clear days notice is required for tabling Unstarred Questions. Written answers given by the Ministers are deemed to have been laid on the Table of the House at the end of Question Hour. Short Notice Question: Question can also be asked on a matter of urgent public importance at a notice of less than ten clear days. The list of admitted SNQ is printed on a pink paper. The procedure of SNQ is regulated by Rule 54 and the basic test for its admissibility is the urgency of matter. SNQ is asked and answered soon after the Question Hour. Question to Private Members: A Question may also be addressed to a Private Member under Rule 40 of the Rules of Procedure and Conduct of Business in Lok Sabha, which provides that the subject matter of the question should be related to some Bill, Resolution or other matter connected with the Business of the House for which that Member is responsible. For instance, the Questions which relates to matters under the purview of Parliamentary Committees can be addressed to respective Chairperson. Similarly, Members piloting Private Members Bills and Resolutions can be addressed questions, which are within cognizance of them under this provision. The procedure in regard to such questions is the same as that followed in the case of questions addressed to a Minister with such variations as the Speaker may consider necessary. "
+        }
+    },
+    "QUESTIONS RELATING TO LEGISLATION": {
+        "51": {
+            "question": " What is a  Bill?",
+            "answer": "A Bill is the draft of a legislative proposal brought before the House for its approval."
+        },
+        "52": {
+            "question": " What are the different types of Bills?",
+            "answer": "Bills initiated by Ministers are called Government Bills and those introduced by Members who are not Ministers are known as Private Members' Bills. Depending on their contents, Bills may further be classified broadly into (a)  Original Bills (Bills embodying new proposals, ideas or policies); (b) Amending Bills (Bills which seek to modify, amend or revise the existing Acts); (c) Consolidating Bills (Bills which seek to consolidate existing laws on a particular subject;  (d) Expiring Laws (Continuance) Bills (Bills to continue an expiring Act); (e) Repealing Bills (Bills seeking to repeal existing Acts); (f) Bills to replace Ordinances; (g) Constitution (Amendment) Bills; and (h) Money and Financial Bills."
+        },
+        "53": {
+            "question": " Who decides whether a Bill is an ordinary Bill or a Money Bill?",
+            "answer": "In case any question arises whether a Bill is a Money Bill or not, the decision of the Speaker, Lok Sabha, thereon, is final.  When a Bill is held to be a Money Bill, the Speaker endorses a certificate thereon duly signed by the Speaker to that effect that it is a Money Bill before the Bill is sent to the Rajya Sabha or presented to the President for assent."
+        },
+        "54": {
+            "question": " What is the difference between a Bill and an Act?",
+            "answer": "A Bill is a draft legislative proposal before the House.  It becomes an Act only when passed by both the Houses of Parliament and assented to by the President."
+        },
+        "55": {
+            "question": " What are the various steps involved in the passage of a Bill?",
+            "answer": "A Bill while being considered has to undergo three stages in each House of Parliament. The first stage consists of the introduction of the Bill which is done on a motion moved by either a Minister or a Member."
+        },
+        "56": {
+            "question": " What is Budget?",
+            "answer": "Budget is the `Annual Financial Statement'  or the Statement of the Estimated Receipts and Expenditure of the Government of India in respect of each financial year, presented to the Lok Sabha on such day as the President may direct.  A copy of the Budget is laid in the Rajya Sabha soon after its presentation in the Lok Sabha.  The preparation and presentation of the Budget for the approval of the Legislature is a constitutional obligation on the part of the Government, both at the Centre and in the States."
+        },
+        "57": {
+            "question": " When is the Budget Session of Parliament held?",
+            "answer": "The Budget Session of Parliament is normally held during February to May of the year.  During this period, the  Budget comes before the Parliament for its deliberation, voting and approval; the Departmentally related Standing Committees consider the Demands for Grants of Ministries/Departments and report on the same to the Houses of Parliament."
+        },
+        "58": {
+            "question": " Who presents the Budget in the House?",
+            "answer": "During the second stage, any of the following motions can be moved: that the Bill be taken into consideration; that it be referred to a Select Committee of the House; that it be referred to a Joint Committee of the two Houses; or that it be circulated for the purpose of eliciting opinion thereon. Thereafter, the Bill is taken up for clause-by-clause consideration as introduced or as reported by the Select/Joint Committee. The third stage is confined to the discussion on the motion that the Bill be passed and the Bill is passed/rejected either by voting or voice vote (or returned to the Lok Sabha by the Rajya Sabha in the case of a Money Bill). In yet another significant development implemented from 2017 was the presentation of an integrated Budget, that is, the merger of the Railways Budget with the General Budget, thereby discontinuing a 92-year old practice of presentation of two separate budgets "
+        }
+    },
+    "PROCEDURAL DEVICES FOR RAISING MATTERS OF PUBLIC INTEREST": {
+        "59": {
+            "question": " What is a Calling Attention ?",
+            "answer": "Under this procedural device, a Member may, with the prior permission of the Speaker, call the attention of a Minister to any matter of urgent public importance and the Minister may make a brief statement thereon. There shall be no debate on such a statement at the time it is made.  After the statement, brief clarifications can be sought from the Minister by the Member who has initiated the Calling Attention and other Members whose names appear in the List of Business are called by the Speaker.   Only those matters which are primarily the concern of the Union Government can be raised through a Calling Attention notice.  The Calling Attention procedure is an Indian innovation which combines asking a question with supplementaries and making brief comments; the Government also gets adequate opportunity to state its case.  The Calling Attention matter is not subject to the vote of the House."
+        },
+        "60": {
+            "question": " What is a Motion?",
+            "answer": "The term `motion' in parliamentary parlance means any formal proposal  made  to the House by a Member for the purpose of  eliciting a decision of the House.  It is phrased in such a way that, if adopted, it will purport to express the judgement or will of the House.  Any matter of importance can be the subject matter of a motion.  The mover of a motion frames it in a form in which he/she wishes it ultimately to be passed by the House and on which a vote of the House can conveniently be taken."
+        },
+        "61": {
+            "question": " What are the different types of Motions?",
+            "answer": "Motions may be classified into three broad categories, namely, substantive motions, substitute motions and subsidiary motions."
+        },
+        "62": {
+            "question": " What is an Adjournment Motion?",
+            "answer": "Adjournment Motion is the procedure for adjournment of the business of the House for the purpose of discussing a definite matter of urgent public importance, which can be moved with the consent of the Speaker.  The Adjournment Motion, if admitted, leads to setting aside of the normal business of the House for discussing the matter mentioned in the motion.  To be in order, an adjournment motion must raise a matter of sufficient public importance to warrant interruption of normal business of the House and the question of public importance is decided on merit in each individual case.  The purpose of an Adjournment Motion is to take the Government to task for a recent act of omission or commission having serious consequences.  Its adoption is regarded as a sort of censure of the Government."
+        },
+        "63": {
+            "question": " What is a Motion of No-confidence?",
+            "answer": "The Government must always enjoy majority support in the popular House to remain in power.  If need be, it has to demonstrate its strength on the floor of the House by moving a Motion of Confidence and winning the confidence of the House.  In view of the express Constitutional provision regarding collective responsibility of the Council of Ministers to the Lok Sabha, a motion expressing want of confidence in an individual Minister is out of order; under the Rules, only a motion expressing want of confidence in the Council of Ministers as a body is admissible.  Rule 198 of the Rules of Procedure and Conduct of Business in Lok Sabha lays down the procedure for moving a Motion of No-Confidence in the Council of Ministers.  The usual format of such a motion is that \"this House expresses its want of confidence in the Council of Ministers\". A Motion of No-confidence need not set out any grounds on which it is based.  Even when grounds are mentioned in the notice and read out in the House, they do not form part of the No-confidence Motion."
+        },
+        "64": {
+            "question": " What is a No-Day-Yet-Named Motion?",
+            "answer": "If the Speaker admits notice of a motion and no date is fixed for its discussion, it is called a \"No-Day-yet-Named Motion\" and a copy of the admitted motion is forwarded to the Minister concerned with the subject matter of the motion."
+        },
+        "65": {
+            "question": " What is meant by a Discussion under Rule 193?",
+            "answer": "Discussion under Rule 193 does not involve a formal motion before the House.  Hence no voting can take place after discussion on matters under this rule.  The Member who gives notice may make a short statement and such of the Members as have previously intimated to the Speaker, may be permitted to take part in the discussion.  The Member who raises the discussion has no right of reply.  At the end of the discussion, the Minister concerned gives a brief reply."
+        },
+        "66": {
+            "question": " What is a Short Duration Discussion?",
+            "answer": "In order to provide opportunities to Members to discuss matters of urgent public importance, a convention was established in March 1953 which was incorporated later into the Rules of Procedure and conduct of Business in Lok Sabha under Rule 193 as Short Duration Discussion.  Under this Rule, Members can raise discussion for short durations without a formal motion or vote thereon."
+        },
+        "67": {
+            "question": " What is meant by matters under Rule 377?",
+            "answer": "Matters, which are not points of order can be raised by way of Special Mentions under Rule 377.  This procedural device, framed in 1954, provides opportunity to the Members to raise matters of general public interest.  At present, the number of matters that can be raised by Members under rule 377 on a single day is 20."
+        },
+        "68": {
+            "question": " What is \u2018Zero Hour\u2019 ?",
+            "answer": "The time immediately following the Question Hour  and laying of papers and before any listed business is taken up in the House has come to be popularly known as the `Zero Hour'.  As it starts around 12 noon, this period is euphemistically termed as `Zero Hour'.  For raising matters during the \u2018Zero Hour\u2019 in Lok Sabha, Members give notice between 8.30 a.m.  and  9.00 a.m. everyday to the Speaker stating clearly the subject which they consider to be important and wish to raise in the House.  It is, of course, for the Speaker to allow or not to allow for raising  such matters in the House.  The term `Zero Hour' is not formally recognised in our parliamentary procedure."
+        },
+        "69": {
+            "question": " How many matters are allowed to be raised under  \u2018Zero Hour\u2019 ?",
+            "answer": "At present, twenty matters per day as per their priority in the ballot are allowed to be raised during \"Zero Hour\".  The order in which the matters will be raised is decided by the Speaker at his/her discretion.  In the first phase, 5 matters of urgent national and international importance, as decided by the Chair, are taken up after Question Hour and laying of papers, etc.  In the second phase, the remaining admitted matters of urgent public importance are taken up after 6.00 P.M. or at the end of the regular business of the House. However, since there is no provision in the rules regarding \u2018Zero Hour\u2019, hence there is no maximum limit on the number of matters that can be raised on any given day."
+        },
+        "70": {
+            "question": " What is a Resolution?",
+            "answer": "A Resolution is a formal expression of the sense, will or action of the Legislative Body.  Resolutions may be broadly divided into three categories:"
+        },
+        "71": {
+            "question": " What is a Point of Order?",
+            "answer": "A Point of Order relates to the interpretation or enforcement of the Rules of Procedure and Conduct of Business in the House or convention or such Articles of the Constitution as regulate the business of the House and raises a question which is within the cognizance of the Speaker."
+        },
+        "72": {
+            "question": " Does the Speaker have the power to adjourn the House or suspend the sitting?",
+            "answer": "Under Rule 375, in the case of a grave disorder arising in the House, the Speaker may, if thinks it necessary to do so, adjourn the House or suspend any sitting for a time to be named by the Speaker."
+        },
+        "73": {
+            "question": " When does the President address the Parliament?",
+            "answer": "The Constitution provides for an Address by the President to either House or  both  Houses   assembled together [Article 86(1)].  The Constitution  also makes incumbent upon the President to address both Houses of Parliament assembled together at the commencement of the first Session after  each General Election to the Lok Sabha and at the commencement of the first Session each year and inform Parliament of the causes of its summons. [Article 87(1)]. The matters referred to in the Address by the President to the Houses are discussed on a Motion of Thanks moved by a Member and seconded by another Member."
+        },
+        "74": {
+            "question": " Can Members raise questions on the Address by the President?",
+            "answer": "No Member can raise questions on the Address by the President. Any action on the part of a Member which mars the occasion   or creates disturbance is punishable by the House to which that    Member belongs. Discussion on matters referred to in the Address takes place on a Motion of Thanks moved by a Member and seconded by another Member.  The scope of discussion on the Address is very wide and the functioning of the entire administration is open for discussion; the limitations inter alia are that Members should not refer to matters which are not the direct responsibility of the Government of India, and the name of the President should not be brought in during the debate since the Government, and not the President, is responsible for the contents of the Address."
+        },
+        "75": {
+            "question": " What are parliamentary privileges?",
+            "answer": "The term `parliamentary privilege' refers to certain rights and immunities enjoyed by each House of Parliament and Committees of each House collectively, and by Members  of each House individually,  without which they cannot discharge their functions efficiently and effectively.   The object of parliamentary privileges is to safeguard the freedom, the authority and the dignity of Parliament.  The powers, privileges and immunities of either House of Parliament and of its Committees and Members have mainly been laid down in article 105 of the Constitution. The House has the power to punish any person who commits a contempt of the House or a  breach of  any of its privileges."
+        },
+        "76": {
+            "question": " Are the parliamentary privileges codified in India?",
+            "answer": "No law has so far been enacted by Parliament in pursuance of article 105(3) of the Constitution to define the powers, privileges and immunities available to each House and its Members and the Committees thereof.   In the absence of any such law, the powers, privileges and immunities of the Houses of Parliament, and of the Members and the Committees thereof, shall be those of that House and of its Members and Committees immediately before the coming into force of section 15 of the Constitution (Forty-fourth Amendment) Act, 1978."
+        },
+        "77": {
+            "question": " What is the difference between breach of privilege and contempt of the House?",
+            "answer": "When any of the privileges, either of the Members individually or of the House in its collective capacity, is disregarded or attacked by any individual or authority, the offence is called a `breach of privilege'."
+        },
+        "78": {
+            "question": " What is the procedure for addressing a question of privilege?",
+            "answer": "A question of privilege may either be considered and decided by the House itself or it may be referred by the House or by the Speaker to the Committee of Privileges for examination, investigation and report."
+        },
+        "79": {
+            "question": " What is the rule relating to 'Automatic Suspension' of a Member?",
+            "answer": "Rule 374A of the Rules of Procedure and Conduct of Business in Lok Sabha provides that in the event of grave disorder occasioned by a Member  coming into the well of the House or abusing the rules of the House persistently and wilfully obstructing  its business by shouting slogans or otherwise, such Member shall, on being named by the Speaker, stand  automatically suspended from the  service of the House for five consecutive sittings or the remainder of the Session, whichever is less."
+        },
+        "80": {
+            "question": " What is the MPLAD Scheme?",
+            "answer": "Members of Parliament Local Area Development Scheme (MPLADS) was introduced in December, 1993. Under this Scheme, a Member of Lok Sabha has the choice to recommend to the Head of the District, development works with emphasis on the creation of durable community assets based on the locally felt needs to the tune of Rupees five crore per year, to be taken up in his/her Constituency. Detailed information about the Scheme is available in the MPLAD Scheme website \"www.mplads.nic.in\"."
+        },
+        "81": {
+            "question": " What is the current salary of a Member?",
+            "answer": "At present, a Member of Parliament is entitled to Rs. 100,000/- per month as salary, Rs. 70,000/- per month as Constituency Allowance, Rs.60,000/-  per month as Office Expense Allowance  out of which Rs. 20,000/- is for meeting expenses of stationery items and postage; and up to Rs. 40,000/- is paid by the Lok Sabha Secretariat to the person(s) as may be engaged by a member for obtaining secretarial assistance. A Member also gets daily allowance of Rs. 2,000 for the period of residence on duty.  Daily allowance will be paid only when he/she signs the register maintained for the purpose."
+        },
+        "82": {
+            "question": " Are Members of Parliament entitled to any pension?",
+            "answer": "A substantive motion is a self-contained, independent proposal made in reference to a subject which the mover wishes to bring forward.  All Resolutions,  Motions for election of the Speaker and Deputy Speaker, and Motion of Thanks on the Address by the President, etc. are examples of substantive  motions. A substitute motion, as its name suggests, is moved in substitution of the original motion for taking into consideration  a policy or situation or statement or any other matter.   Amendments to substitute motions are not permissible. Subsidiary motions depend upon or relate to other motions or follow up on some proceedings in the House.  By itself, a subsidiary motion has no meaning and is not capable of stating the decision of the House without reference to the original motion or the proceedings of the House. Admitted notices of such motions may be placed before the Business Advisory Committee for selecting the motions for discussion in the House according to the urgency and importance of the subject-matter thereof, and allotting time for the same. Resolutions which are expression of opinion by the House: Since the purpose of such a Resolution is merely to obtain an expression of opinion of the House, the Government is not bound to give effect to the opinions expressed in these Resolutions. Resolutions which have statutory effect: The notice of a Statutory Resolution is given in pursuance of a provision in the Constitution or an Act of Parliament.  Such a Resolution, if adopted, is binding on the Government and has the force of law. Resolutions which the House passes in the matter of control over its own proceedings:  It has the force of law and its validity cannot be challenged in any court of law.  The House, by such a Resolution, evolves, sometimes, its own procedure to meet a situation not specifically provided for in the Rules. A Point of Order may be raised only in relation to the business before the House at the moment, provided that the Speaker may permit a Member to raise a Point of Order during the interval between the termination of one item of business and the commencement of another if it relates to maintenance of order in, or arrangement of business before, the House.  A Member may formulate a Point of Order and the Speaker shall decide whether the point raised is a Point of Order and if so give the decision thereon, which is final.  PARLIAMENTARY PRIVILEGES/IMMUNITIES, SALARIES AND EMOLUMENTS Contempt of the House may be defined generally as any act or omission which obstructs or impedes either House of Parliament in the performance of its functions, or which obstructs or impedes any Member or officers of such House in the discharge of his or her duty, or which has a tendency, directly or indirectly, to produce such results even though there is no precedent of the offence.  Whereas all breaches of privilege are contempts  of the House, a person may be guilty of a contempt of the House even though he does not violate any of the privilege of the House, e.g. when he disobeys an order to attend a Committee or publishes reflections on the character or conduct of a Member in his capacity as a Member."
+        }
+    },
+    "CONTACTING LOK SABHA": {
+        "83": {
+            "question": " Where do I get more information on Members of Lok Sabha?",
+            "answer": "The Lok Sabha Web Site (https://loksabha.nic.in) has a section on Members which gives information about its  Members."
+        },
+        "84": {
+            "question": " How can I get in touch with a Member of Lok Sabha?",
+            "answer": "Members can be contacted through E-mail. Permanent and  Local addresses of Members of Lok Sabha are also available at the Lok Sabha Web Site  (https://loksabha.nic.in)."
+        }
+    },
+    "GREET": {
+        "85": {
+            "question":  "Hi",
+            "answer": "Hello I am Meera, your Virtual Parliamentary Assistant. How may I help you?"
+        },
+        "86": {
+            "question": "Hello",
+            "answer": "Hi I am Meera, your Virtual Parliamentary Assistant. How can I help you?"
+        },
+        "87": {
+            "question":  "Hi",
+            "answer": "Hello I am Meera, your Virtual Parliamentary Assistant. How can I help you?"
+        }, 
+        "88": {
+            "question":  "Hi, How are you?",
+            "answer": "Hello I am fine. Hope you are doing well. How can I help you?"
+        },
+        "89": {
+            "question": "What is your name?",
+            "answer": "I am your Virtual Parliamentary Assistant, Meera. Thank you for asking."
+        },
+        "90": {
+            "question": "Thank you",
+            "answer": "I am glad. I hope I answered your query."
+        },
+        "91": {
+            "question": "Thanks for answering my question.",
+            "answer": "Thank you for reaching me out. I am glad, I resolved your query."
+        }
+
+    
+    
+    }
+}
